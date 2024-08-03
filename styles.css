@@ -84,7 +84,8 @@ h6 {
 }
 
 .qr-content {
-  padding: 30px;
+  padding: 25px;
+  padding-bottom: 12px;
 }
 
 .qr-image {
