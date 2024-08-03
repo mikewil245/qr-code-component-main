@@ -20,6 +20,11 @@ body {
   font-family: var(--OutFitFont);
   background-color: var(--Slate300);
   padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
 }
@@ -58,8 +63,8 @@ h6 {
 .container {
   background-color: #fff;
   max-width: 360px;
-  margin: 0 auto;
-  padding: 15px;
+  padding: 20px;
+
   border-radius: 15px;
 }
 
